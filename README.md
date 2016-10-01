@@ -86,4 +86,5 @@ The scripts in this repository detail the model-building process and can be used
  * However, keep in mind that many algorithms involve different formats and configurations of data input and output, and thus some unforeseen changes may need to be made. 
 
 
+<br><br><br><br>
 ##### written by Oliver Haimson, with Michael Madaio, Xiang Cheng and Wenwen Zhang <br>on behalf of Data Science for Social Good, Atlanta<br> for Atlanta Fire Rescue Department

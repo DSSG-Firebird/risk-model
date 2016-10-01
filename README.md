@@ -10,7 +10,7 @@ The Firebird framework is designed to help municipal fire departments:</br>
 
 More information on the Firebird project can be found <a href="http://www.firebird.gatech.edu">here</a>.
 
-This repository has scripts to clean your property data, run a risk model to predict fire risk based on historical fires, and assign a risk score to each property.
+This repository has scripts to clean your property data, run a risk model to predict fire risk based on historical fires, and assign a risk score to each property. Make sure you have completed the Property Join process (<a href="https://github.com/DSSG-Firebird/property-joins">Step 1</a>) before building the risk model.
 
 ======
 

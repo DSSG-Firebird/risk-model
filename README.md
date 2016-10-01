@@ -84,6 +84,9 @@ The scripts in this repository detail the model-building process and can be used
 * Other machine learning and statistical techniques may be able to be used with minimal edits to the scripts. 
  * In SVM.R, for example, line 34 could be edited to use a different algorithm other than SVM. 
  * However, keep in mind that many algorithms involve different formats and configurations of data input and output, and thus some unforeseen changes may need to be made. 
+ 
+## Next
+Once the Risk Model is built, go to the <a href="https://github.com/DSSG-Firebird/interactive-map">Interactive Map<a>.
 
 
 <br><br><br><br>
